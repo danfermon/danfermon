@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning CrewAI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: instagram: @omnia.ia
-- 😄 Pronouns: whats the hell is this? 😂😂
-- ⚡ Fun fact: ...
+- 😄 Pronouns: what the hell is this? 😂😂
+- ⚡ Fun fact: I'm not funny.
 
 <!---
 danfermon/danfermon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
